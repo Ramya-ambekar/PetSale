@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/add_det"
+            android:icon="@drawable/ic_add"
+            android:title="Add Details" />
+        <item
+            android:id="@+id/update_det"
+            android:icon="@drawable/ic_update"
+            android:title="Update Details" />
+        <item
+            android:id="@+id/delete_item"
+            android:icon="@drawable/ic_delete"
+            android:title="Delete item" />
+    </group>
+
+
+</menu>

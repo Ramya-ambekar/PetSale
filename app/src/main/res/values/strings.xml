@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PetSale</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+    <string name="back4app_app_id" translatable="false">9XOM3vEI9nlh7gGyWwAOiTMT1J9fPF8muytCfcvA</string>
+    <string name="back4app_client_key" translatable="false">Trl9OsI4XCW0SVHWtrktbDIjACLI1iQWxyZ62gRT</string>
+
+    <string name="navi_drawer_open">Open navigation bar</string>
+    <string name="navi_drawer_close">Close navigation bar</string>
+
+</resources>
